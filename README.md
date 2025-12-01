@@ -125,7 +125,7 @@ data-guardian/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Kweenbee187/data-guardian.git
+   git clone https://github.com/tituatgithub/data-guardian.git
    cd data-guardian/extension
    ```
 

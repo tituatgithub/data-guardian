@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Node / Chrome extension build junk
+node_modules/
+dist/
+build/
+*.log
+
+# System junk
+.DS_Store
+Thumbs.db
+
+# HuggingFace / Modal (not needed in repo)
+modal.toml
+gradio_demo/
+
+# Caches / temp
+*.tmp
+*.cache
+*.bak
+
+# Environment files
+.env

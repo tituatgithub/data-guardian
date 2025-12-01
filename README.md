@@ -12,7 +12,7 @@
 
 **Watch Data Guardian in action!**
 
-Check out the full demo video here: [**View Demo**](https://github.com/Kweenbee187/data-guardian/tree/main/demo)
+Check out the full demo video here: [**View Demo**](https://github.com/tituatgithub/data-guardian/tree/main/demo)
 
 ---
 

@@ -8,6 +8,14 @@
 
 ---
 
+## 🎬 Demo
+
+**Watch Data Guardian in action!**
+
+Check out the full demo video here: [**View Demo**](https://github.com/Kweenbee187/data-guardian/tree/main/demo)
+
+---
+
 ## 🎯 Why Data Guardian?
 
 Modern websites secretly run dozens of tracking scripts that users never see. Data Guardian acts as a **privacy X-ray**, giving you complete visibility into what's happening behind the scenes.
@@ -112,6 +120,9 @@ data-guardian/
 │
 ├── agent/                          # Blocklist Updater Agent
 │   └── compress_blocklist.py       # Fetches & merges EasyPrivacy + Disconnect
+│
+├── demo/                           # Demo Video
+│   └── data-guardian-final-demo.mp4
 │
 └── README.md                       # Documentation
 
